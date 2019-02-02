@@ -1,3 +1,4 @@
+# python 3.7.*
 # https://openpyxl.readthedocs.io/en/stable/tutorial.html - Open XML Writer for XLSX
 # pip install openpyxl
 # pip install pillow
